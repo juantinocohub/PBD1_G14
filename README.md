@@ -4,7 +4,7 @@
 | Integrantes | Rol | Descripción | Contacto |
 |---|---|---|---|
 | Misael Andre Cieza Armas | rol | Alumno de Ingeniería biomédica con interés en ... | correo |
-| colocar nombre | rol | Alumno de Ingenieria Biomedica con interes en ... | correo |
+| José David Bueno Nogueira | rol | Alumno de Ingenieria Biomedica con interes en ... | jose.bueno@upch.pe |
 | colocar nombre | rol | Alumno de Ingenieria Biomedica con interes en ... | correo |
 | colocar nombre | rol | Alumno de Ingenieria Biomedica con interes en ... | correo |
 | colocar nombre | rol | Alumno de Ingenieria Biomedica con interes en ... | correo |
