@@ -25,13 +25,13 @@
 
 ---
 
-###  Problemática 2: [Título breve de la problemática]
+###  Problemática 2: Dolor de dedo y no cicatrización por pinchazo para detectar glucosa de forma invasiva.
 * **Descripción:** Explica aquí de forma clara y detallada en qué consiste el problema.
 * **Impacto:** ¿A quién o qué afecta? (usuarios, sistema, rendimiento, etc.).
 * **Causa raíz (opcional):** Breve explicación del origen del problema.
 
 
-###  Problemática 3: [Título breve de la problemática]
+###  Problemática 3: Rehabilitación Adaptativa e Instrumentalizada para Pacientes con Temblores Parkinsonianos
 * **Descripción:** Explica aquí de forma clara y detallada en qué consiste el problema.
 * **Impacto:** ¿A quién o qué afecta? (usuarios, sistema, rendimiento, etc.).
 * **Causa raíz (opcional):** Breve explicación del origen del problema.
