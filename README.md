@@ -36,7 +36,7 @@
 * **Impacto:** ¿A quién o qué afecta? (usuarios, sistema, rendimiento, etc.).
 * **Causa raíz (opcional):** Breve explicación del origen del problema.
   
-###  Problemática 4: [Título breve de la problemática]
+###  Problemática 4: Pérdida de capacidad motoras por lesiones parciales en la médula espinal
 * **Descripción:** Explica aquí de forma clara y detallada en qué consiste el problema.
 * **Impacto:** ¿A quién o qué afecta? (usuarios, sistema, rendimiento, etc.).
 * **Causa raíz (opcional):** Breve explicación del origen del problema.
