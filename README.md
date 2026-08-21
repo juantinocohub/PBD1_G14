@@ -1,5 +1,5 @@
 # Proyectos de Biodiseño - Grupo 14
-## Tabla de roles
+## 👥 Tabla de roles
 
 | Integrantes | Rol | Descripción | Contacto |
 |---|---|---|---|
@@ -10,7 +10,7 @@
 | Diego Alberto Ugarte Yupanqui | rol | Alumno de Ingenieria Biomedica con interés en ... | diego.ugarte.y@upch.pe |
 | Juan Antonio Tinoco Quispe | rol | Alumno de Ingenieria Biomedica con interés en ... | juan.tinoco@upch.pe |
 ---
-## Foto grupal
+## 📸 Foto grupal
 ---
 ## 📌 Problemáticas Identificadas
 
