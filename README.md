@@ -32,9 +32,9 @@
 
 
 ###  Problemática 3: Rehabilitación Adaptativa e Instrumentalizada para Pacientes con Temblores Parkinsonianos
-* **Descripción:** Explica aquí de forma clara y detallada en qué consiste el problema.
-* **Impacto:** ¿A quién o qué afecta? (usuarios, sistema, rendimiento, etc.).
-* **Causa raíz (opcional):** Breve explicación del origen del problema.
+* **Descripción:** Los pacientes con leciones medulares pueden recuperar su capacidad motora, sin embargo, la rehabilitacion es un proceso largo y adicionalmente, los equipos medicos para acelerarla resultan muy costosos.
+* **Impacto:** Pacientes que requieran de una rehabilitacion eficaz y no dispongan de mucho persupuesto para equipos caros.
+* **Causa raíz (opcional):** Multiples tipos de accidentes fisicos. En nuestro proyecto nos enfocaremos en lesiones en la region lumbar de la medula espinal
   
 ###  Problemática 4: Pérdida de capacidad motoras por lesiones parciales en la médula espinal
 * **Descripción:** Explica aquí de forma clara y detallada en qué consiste el problema.
