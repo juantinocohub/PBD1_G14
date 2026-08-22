@@ -11,6 +11,7 @@
 | Juan Antonio Tinoco Quispe | rol | Alumno de Ingenieria Biomedica con interés en ... | juan.tinoco@upch.pe |
 ---
 ## 📸 Foto grupal
+<img width="1280" height="960" alt="PB1_G14" src="https://github.com/user-attachments/assets/6e59582b-1d33-46ac-b02c-3be064975155" />
 ---
 ## 📌 Problemáticas Identificadas
 
