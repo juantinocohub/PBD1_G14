@@ -25,9 +25,10 @@
   * **Impacto:** Reducción del tamaño y costo de las baterías principales mediante el cumplimiento de parámetros cinemáticos, energéticos, ergonómicos y de biocompatibilidad dérmica.
 ---
 ###  Problemática 2: Dolor de dedo y no cicatrización por pinchazo para detectar glucosa de forma invasiva.
-* **Descripción:** Explica aquí de forma clara y detallada en qué consiste el problema.
-* **Impacto:** ¿A quién o qué afecta? (usuarios, sistema, rendimiento, etc.).
-* **Causa raíz:** Breve explicación del origen del problema.
+* **Descripción:** Las personas diagnosticadas con diabetes requieren un monitoreo constante de sus niveles de glucosa en sangre, el cual se realiza tradicionalmente mediante un método invasivo que implica pincharse los dedos varias veces al día para obtener muestras capilares.
+* **Impacto:** Afecta directamente a los usuarios (pacientes diabéticos), generándoles dolor constante, incomodidad, desgaste o daño continuo en los tejidos cutáneos y riesgo de infecciones en las zonas de punción. Esto provoca un alto índice de desmotivación y el eventual abandono o irregularidad en el control diario de su salud.
+* **Causa raíz:** La dependencia de métodos invasivos tradicionales que requieren perforación cutánea para la toma de muestras de sangre, en lugar de aprovechar tecnologías ópticas no invasivas para la medición contínua.
+[3]
 ---
 ###  Problemática 3: Rehabilitación Adaptativa e Instrumentalizada para Pacientes con Temblores Parkinsonianos
 * **Descripción:** Los pacientes diagnosticados con la Enfermedad de Parkinson en estadios 2 y 3 (según la escala de Hoehn y Yahr) experimentan temblores involuntarios de tipo cuasi-periódico con una frecuencia dominante de entre 4 y 6 Hz, manifestados principalmente en la articulación de la muñeca y en las extremidades distales de la mano. Los dispositivos de asistencia comerciales actuales suelen optar por la inmovilización rígida de la extremidad o por mecanismos pasivos pesados; sin embargo, bloquear mecánicamente la mano provoca fatiga por co-contracción muscular, dolor articular y la anulación del movimiento voluntario intencional del usuario. El desafío técnico de biodiseño consiste en desarrollar un dispositivo vestible (wearable) que aplique una amortiguación biomecánica activa o filtrado adaptativo capaz de atenuar exclusivamente la banda de frecuencia del temblor (4–6 Hz) sin limitar la movilidad voluntaria de baja frecuencia (0–1.5 Hz) necesaria para ejecutar las Actividades de la Vida Diaria (AVD).
@@ -36,8 +37,11 @@ Usuarios (Pacientes): Pérdida progresiva de la autonomía física para llevar a
 Sistema de Salud y Cuidadores: Incremento en la carga de asistencia personalizada y dependencia de cuidadores o familiares para tareas básicas diarias.
 Rendimiento Biomecánico: La falta de soluciones adaptativas genera fatiga muscular prematura por lucha motora, dolor en los tendones del antebrazo y aceleración del deterioro funcional de la articulación de la muñeca.
 * **Causa raíz:** El origen neurobiológico del problema radica en la neurodegeneración progresiva de las neuronas dopaminérgicas en la substantia nigra del cerebro. La ausencia de dopamina interrumpe el bucle de control motor en los ganglios basales, provocando que el sistema nervioso central genere ráfagas de impulsos eléctricos involuntarios y oscilatorios que se propagan a través de la médula espinal hacia los músculos flexores y extensores del antebrazo a una frecuencia constante de 4 a 6 Hz.
+[4]
 --- 
 ###  Problemática 4: Pérdida de capacidad motoras por lesiones parciales en la médula espinal
 * **Descripción:** Los pacientes con leciones medulares pueden recuperar su capacidad motora, sin embargo, la rehabilitacion es un proceso largo y adicionalmente, los equipos medicos para acelerarla resultan muy costosos.
 * **Impacto:** Pacientes que requieran de una rehabilitacion eficaz y no dispongan de mucho persupuesto para equipos caros.
 * **Causa raíz:** Multiples tipos de accidentes fisicos. En nuestro proyecto nos enfocaremos en lesiones en la region lumbar de la medula espinal
+[5]
+[6]
