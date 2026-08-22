@@ -12,13 +12,6 @@
 |colocar nombre|rol|Alumno de Ingenieria Biomedica con interes en ...|correo|
 
 
-
-CHIZO CACHUDOOOOOOOOO
-
-SENTRAX 
-
-LUISPENGUETOOOO
-
 ## 👥 Tabla de roles
 
 | Integrantes | Rol | Descripción | Contacto |
