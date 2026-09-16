@@ -14,7 +14,7 @@
 ## 📸 Foto grupal
 <img width="1280" height="960" alt="PB1_G14" src="https://github.com/user-attachments/assets/6e59582b-1d33-46ac-b02c-3be064975155" />
 ---
-## 📌 Problemáticas Identificadas
+📌 Problemáticas Identificadas
 
 ### 🎯 Problemática 1: Inaccesibilidad y limitaciones energéticas en prótesis activas de extremidad superior
 
