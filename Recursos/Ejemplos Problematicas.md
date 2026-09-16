@@ -1,5 +1,5 @@
----
-📌 Problemáticas Identificadas
+
+## 📌 Problemáticas Identificadas
 
 ### 🎯 Problemática 1: Inaccesibilidad y limitaciones energéticas en prótesis activas de extremidad superior
 
